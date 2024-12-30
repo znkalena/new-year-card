@@ -95,3 +95,21 @@ animation: jump 1s ease-in-out 2s infinite;
     transform: translate(0,0) scale(1);
     }
     }
+    @media (min-width:540px) {
+        .happy {
+            left: auto;
+        }
+        .snake {
+            left: 50%;
+        }
+        .new {
+            left: 50%;
+        }
+        .year {
+            left:auto;
+        }
+        .family {
+            left: 50%;
+        }
+        
+    }
